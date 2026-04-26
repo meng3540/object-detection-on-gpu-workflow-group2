@@ -41,3 +41,9 @@ Object detection inference is a parallel computation problem because multiple co
 |--------|--------|-----|------------|
 | CPU | High | Low | Not suitable for real-time |
 | GPU | Low | High | Real-time capable |
+
+## References 
+●	NVIDIA Jetson PyTorch Installation Guide
+●	Ultralytics YOLO Documentation
+●	PyTorch Vision Documentation
+
