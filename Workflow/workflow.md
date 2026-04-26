@@ -5,6 +5,8 @@
 ## System Overview
 Camera → OpenCV → YOLOv8 Model → GPU (CUDA) → Bounding Boxes → Display
 
+# Workflow Steps: 
+
 ## Step 1: Verify System
 
 ```bash
