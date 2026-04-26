@@ -5,8 +5,6 @@
 ## System Overview
 Camera → OpenCV → YOLOv8 Model → GPU (CUDA) → Bounding Boxes → Display
 
----
-
 ## Step 1: Verify System
 
 ```bash
@@ -15,7 +13,7 @@ dpkg -l | grep nvidia-jetpack
 cat /etc/nv_tegra_release
 nvcc --version
 
-## Step 1: Verify System
+Step 2: Install Dependencies
 
 sudo apt-get update
 sudo apt-get install -y python3-pip libopenblas-dev python3-opencv git build-essential libjpeg-dev zlib1g-dev libpython3-dev
