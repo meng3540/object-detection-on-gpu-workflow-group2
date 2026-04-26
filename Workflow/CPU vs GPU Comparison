@@ -1,0 +1,18 @@
+CPU vs GPU Comparison
+GPU
+●	Low latency
+●	High FPS
+●	Real-time detection
+●	GPU utilization visible in jtop
+CPU
+●	High latency
+●	Low FPS
+●	Not real-time
+●	High CPU usage
+Screenshots to Include
+●	JetPack version
+●	Torch CUDA True
+●	GPU detection output
+●	CPU detection output
+●	jtop GPU usage
+
