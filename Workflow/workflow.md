@@ -103,10 +103,7 @@ Description: Object detection and camera output was visibly faster and very clos
 
 
 ### GPU Usage (jtop)
-![GPU Usage] <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/4b05a48d-1789-44ea-af4e-8b7859bb809a" />
-
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/76d31a4e-185d-43f8-93c9-ac9493087301" />
-
+![GPU Usage] object-detection-on-gpu-workflow-group2/Workflow/workflow.md
 
 
 
