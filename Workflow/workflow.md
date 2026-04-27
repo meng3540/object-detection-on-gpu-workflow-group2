@@ -93,16 +93,16 @@ CPU
 
 ## Screenshots
 ### CPU Detection Output
-![CPU Detection](images/image.png)
+![CPU Detection](..images/image.png)
 Description: The Object detection by the CPU was lagging very much, the camera output and detection was far from real time.
 
 ### GPU Detection Output
-![GPU Detection]  (images/GPU Results.png)
+![GPU Detection] (..images/GPU Results.png)
 Description: Object detection and camera output was visibly faster and very close to real time. 
 
 
 ### GPU Usage (jtop)
-![GPU Usage] (images/JTOP Results.png)
+![GPU Usage] (..images/JTOP Results.png)
 
 
 ---
