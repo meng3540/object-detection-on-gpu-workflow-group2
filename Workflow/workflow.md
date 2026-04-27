@@ -74,8 +74,9 @@ python3 -c "from ultralytics import YOLO; print('ultralytics ok')"
 python3 code/detect_gpu.py
 
 ## Step 11: Monitor GPU
-
 jtop
+
+# Results
 
 CPU vs GPU Comparison
 GPU
@@ -88,7 +89,27 @@ CPU
 ●	Low FPS
 ●	Not real-time
 ●	High CPU usage
-Screenshots to Include
+
+
+## Screenshots
+### CPU Detection Output
+![CPU Detection] <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/89e58370-f103-4529-bd4b-1dd62389161e" />
+Description: The Object detection by the CPU was lagging very much, the camera output and detection was far from real time.
+
+### GPU Detection Output
+![GPU Detection]
+<img width="975" height="877" alt="image" src="https://github.com/user-attachments/assets/ee931ff8-afb0-46a9-89a9-3e92de792202" />
+Description: Object detection and camera output was visibly faster and very close to real time. 
+
+
+### GPU Usage (jtop)
+![GPU Usage] <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/4b05a48d-1789-44ea-af4e-8b7859bb809a" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/76d31a4e-185d-43f8-93c9-ac9493087301" />
+
+
+
+
 ●	JetPack version
 ●	Torch CUDA True
 ●	GPU detection output
