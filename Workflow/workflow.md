@@ -102,9 +102,7 @@ Description: Object detection and camera output was visibly faster and very clos
 
 
 ### GPU Usage (jtop)
-![GPU Usage] <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6fbfd6bb-212d-456f-9793-2fe35ac58d18" />
-
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5ba690d9-573f-4ed0-bae8-bc5169543c1c" />
+![GPU Usage] (images/JTOP Results.png)
 
 
 ---
