@@ -93,12 +93,11 @@ CPU
 
 ## Screenshots
 ### CPU Detection Output
-![CPU Detection] <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/89e58370-f103-4529-bd4b-1dd62389161e" />
+![CPU Detection]
 Description: The Object detection by the CPU was lagging very much, the camera output and detection was far from real time.
 
 ### GPU Detection Output
-![GPU Detection]
-<img width="975" height="877" alt="image" src="https://github.com/user-attachments/assets/ee931ff8-afb0-46a9-89a9-3e92de792202" />
+![GPU Detection]  (images/GPU Results.png)
 Description: Object detection and camera output was visibly faster and very close to real time. 
 
 
