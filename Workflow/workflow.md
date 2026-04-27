@@ -93,7 +93,7 @@ CPU
 
 ## Screenshots
 ### CPU Detection Output
-![CPU Detection]
+![CPU Detection](images/image.png)
 Description: The Object detection by the CPU was lagging very much, the camera output and detection was far from real time.
 
 ### GPU Detection Output
